@@ -22,5 +22,5 @@ void mySwap(int &x,int &y){
 	b = y;
 	x = b;
 	y = a;
-	 
+	
 }
